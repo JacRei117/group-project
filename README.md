@@ -1,4 +1,6 @@
 # group-project
-Practicing the basic workflow of Git and GitHub with a shared repository.
+We are practicing the basic workflow of Git and GitHub with a shared repository.
 
-Caden and Jacob
+GROUP NAMES: 
+Jacob Reid
+Caden Miller
